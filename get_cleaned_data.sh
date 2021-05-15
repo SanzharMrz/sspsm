@@ -1,4 +1,6 @@
 #!/bin/bash
 
+echo Creating cleaned-data folder ...
 mkdir cleaned-data
+echo Downloading dataset ...
 wget https://transfer.sh/DlKHo/pic-parser-best.weights -O cleaned-data/model.weights
