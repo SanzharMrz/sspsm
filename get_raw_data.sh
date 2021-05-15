@@ -1,2 +1,5 @@
 #!/bin/bash
-echo $HOME
+echo Creating cleaned-data folder ...
+mkdir raw-data
+echo Downloading dataset ...
+wget https://transfer.sh/DlKHo/pic-parser-best.weights -O raw-data/model.weights
