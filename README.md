@@ -1,4 +1,5 @@
 # SSPSM
+Satbayev students performance scoring model. EDA and raw data.
 
 # Usage
 
