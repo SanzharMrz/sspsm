@@ -1,6 +1,9 @@
 # SSPSM
 Satbayev students performance scoring model. EDA and raw data.
 
+_EDA.ipynb_ - jupyter notebook with explorative data analysis of students general population.
+_Model1.ipynb_ - jupyter notebook with modelling part and some stats about lecturers grading habits.
+
 # Usage
 
 ```bash
